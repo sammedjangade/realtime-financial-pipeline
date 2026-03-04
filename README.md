@@ -283,4 +283,4 @@ streamlit run dashboard/app.py
 
 ## Author
 
-Sammed Jangade — [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/sammedjangade)
+Sammed Jangade — [LinkedIn](https://linkedin.com/in/sammed-jangade) | [GitHub](https://github.com/sammedjangade)
